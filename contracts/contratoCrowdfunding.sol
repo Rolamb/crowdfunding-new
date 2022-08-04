@@ -1,7 +1,6 @@
 // SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.0;
-//import "hardhat/console.sol";
 //import '.SafeMath.sol';
 //Son 2 contratos: crowdfunding (recoge todos los proyectos generados) y Proyecto (bóveda de cada proyecto).
 
